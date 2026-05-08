@@ -1,4 +1,4 @@
-# homelab-notes
+# Homelab-notes
 
 A personal cybersecurity home lab built to develop hands-on offensive and defensive security skills. Currently running on VirtualBox with Ubuntu as the primary attack machine. Built alongside a 4-year cybersecurity learning roadmap starting May 2026.
 
