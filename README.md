@@ -4,15 +4,12 @@ A personal cybersecurity home lab built to develop hands-on offensive and defens
 
 ## Current Lab Setup
 
-| Machine        | OS           | Purpose                     |
-|----------------|--------------|-----------------------------|
-| Attack Machine | Ubuntu 22.04 | Primary pentesting platform |
+- **VM Machine**: Currently, only Ubuntu 22.04 for OverTheWire Bandit
+- **Burp Suite**: For learning and for OverTheWire Natas
 
 ## Repository Structure
 
 - /setup → VM installation and network configuration
-- /experiments → Hands-on labs and observations
-- /tools → Command references and tool notes
 
 ## Current Focus
 
